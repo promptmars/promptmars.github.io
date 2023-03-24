@@ -1,0 +1,14 @@
+Prompt Mars:
+  name        : "Prompt Mars"
+  bio         : "Everything about Prompt Engineering"
+  avatar      : "/assets/images/promptmars.png"
+  links:
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope-square"
+      url: "mailto:dev.ggw@gmail.com"
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/promptmars"
+    - label: "Instagram"
+      icon: "fab fa-fw fa-instagram"
+      url: "https://instagram.com/prompt_mars"
